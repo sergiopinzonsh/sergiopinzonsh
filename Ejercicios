@@ -1,0 +1,15 @@
+a= str (input(digite su nombre : " ))
+
+b= str (input(coloque el nombre del colegio : "))
+
+c= int (input(digite el grado que está cursando : " ))
+
+print(f" el estudiante {a} estudia en el colegio {b} cursa grado {c} )
+
+
+
+
+<!---
+sergiopinzonsh/sergiopinzonsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
